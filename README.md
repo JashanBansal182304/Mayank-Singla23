@@ -1,6 +1,6 @@
 ![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe91322-e36d-4aca-8d83-41904f9e429f/df3kllr-32b45386-cb0b-4d18-8614-d9c5c5349294.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmZTkxMzIyLWUzNmQtNGFjYS04ZDgzLTQxOTA0ZjllNDI5ZlwvZGYza2xsci0zMmI0NTM4Ni1jYjBiLTRkMTgtODYxNC1kOWM1YzUzNDkyOTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wXPGXM3Wy0nOUVmXi1d-CT031ZTvMjTdTsvYShmMXTY)
 
-<h1 align="center">Hi 👋, I'm Mayank Singla</h1>
+<h1 align="center">Hi 👋, I'm Jashan Bansal</h1>
 <h3 align="center">Passionate about coding, I'm currently expanding my skills in C++, Python, CSS, and JS, thrilled to embark on this exciting journey in the world of programming as an enthusiastic frontend developer from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQETeOPSimgVJw/article-cover_image-shrink_720_1280/0/1693502206064?e=2147483647&v=beta&t=j17E6spkS5GvW_UfzkW9UNfT2eeMvZ-nhaHWhO-1jmc">
@@ -13,16 +13,16 @@
 
 - 💬 Ask me about **C++, HTML, CSS**
 
-- 📫 How to reach me **ms8031139@gmail.com**
+- 📫 How to reach me **jashansangaria05@gmail.com**
 
 - ⚡ Fun fact **I am Collaborative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ms8031139singla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ms8031139singla" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayank-singla-629806289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-singla-629806289" height="30" width="40" /></a>
-<a href="https://instagram.com/mayank.singla23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayank.singla23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mayank-singla23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayank-singla23" height="30" width="40" /></a>
+<a href="https://twitter.com/RamanKumar51498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ms8031139singla" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jashan-bansal-08969028a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-singla-629806289" height="30" width="40" /></a>
+<a href="https://instagram.com/jashan.bansal.330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayank.singla23" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/JashanBansal182304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayank-singla23" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
