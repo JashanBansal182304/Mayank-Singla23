@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-singla23&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-singla23" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ms8031139singla" target="blank"><img src="https://img.shields.io/twitter/follow/ms8031139singla?logo=twitter&style=for-the-badge" alt="ms8031139singla" /></a> </p>
+<p align="left"> <a href="https://twitter.com/RamanKumar51498" target="blank"><img src="https://img.shields.io/twitter/follow/ms8031139singla?logo=twitter&style=for-the-badge" alt="jashansangaria05" /></a> </p>
 
 - 🌱 I’m currently learning **DSA in C++ & Full Stack Web Development**
 
